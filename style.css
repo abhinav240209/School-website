@@ -1,0 +1,24 @@
+body {
+    text-align:center;
+
+}
+
+#video {
+    width:1200px;
+    height:800px
+}
+
+.announcement {
+    background-color: lightblue;
+    
+}
+
+#map {
+    width:600px;
+    height:800px;
+}
+
+img {
+margin-left: 300px;
+;
+}
